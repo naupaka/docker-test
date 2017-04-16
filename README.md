@@ -1,5 +1,7 @@
 Commands to build and run Dockerfile to make a Docker image with both ssh server and RStudio server
 
+Based on images from the [rocker project](https://hub.docker.com/r/rocker/rstudio/).
+
 Meant for local use and testing.    
 Naupaka Zimmerman naupaka (at) gmail.com   
 April 14, 2017   
