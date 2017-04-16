@@ -1,4 +1,4 @@
-Commands to build and run Dockerfile to make a Docker image of with both ssh server and RStudio server listening
+Commands to build and run Dockerfile to make a Docker image with both ssh server and RStudio server
 
 Meant for local use and testing.    
 Naupaka Zimmerman naupaka (at) gmail.com   
@@ -21,4 +21,5 @@ docker container ls --all
 ssh -p theport rstudio@localhost
 ```
 
-In a browser, go to localhost:theport and login with rstudio:rstudio
+In a browser, go to localhost:theport and login with username:password
+rstudio:rstudio
