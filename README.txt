@@ -1,4 +1,5 @@
 # Commands to build and run Dockerfile to make a Docker image of with both ssh server and RStudio server listening
+# Meant for local use
 # Naupaka Zimmerman naupaka@gmail.com
 # April 14, 2017
 
